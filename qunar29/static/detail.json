@@ -1,0 +1,150 @@
+{
+  "ret": true,
+  "data": {
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_600x330_f922b488.jpg",
+    "imgList": [
+      "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_800x800_04f227ef.jpg",
+      "http://img1.qunarzz.com/sight/p55/201211/04/fbcab3e5d6479ce893835fbb.jpg_800x800_3f52b8da.jpg",
+      "http://img1.qunarzz.com/wugc/p180/201306/16/7f08e81624346b1693835fbb.jpg_800x800_eb941a31.jpg",
+      "http://img1.qunarzz.com/wugc/p123/201211/19/a2045d091f02b25493835fbb.png_800x800_5e80fcc3.png"
+    ],
+    "ticketList": [{
+      "title": "故宫成人票",
+      "hasMore": true,
+      "list": [
+        {
+          "title": "上午场",
+          "desc": "比较贵",
+          "price": "36.8",
+          "show": true,
+          "hasMore": true,
+          "suppliers": [{
+            "name": "Qunar自营",
+            "show": true
+          },{
+            "name": "Qunar1自营",
+            "show": true
+          },{
+            "name": "Qunar2自营",
+            "show": false
+          }]
+        }, {
+          "title": "下午场",
+          "desc": "比较好",
+          "price": "32.8",
+          "hasMore": true,
+          "show": true,
+           "suppliers": [{
+            "name": "Qunar自营",
+            "show": true
+          },{
+            "name": "Qunar1自营",
+            "show": true
+          },{
+            "name": "Qunar2自营",
+            "show": false
+          }]
+        },{
+          "title": "午夜场",
+          "desc": "比较好",
+          "price": "12.8",
+          "hasMore": true,
+          "show": false,
+           "suppliers": [{
+            "name": "Qunar自营",
+            "show": true
+          },{
+            "name": "Qunar1自营",
+            "show": true
+          },{
+            "name": "Qunar2自营",
+            "show": false
+          }]
+        }]
+    },{
+      "title": "故宫成人票",
+      "hasMore": true,
+      "list": [
+        {
+          "title": "上午场",
+          "desc": "比较贵",
+          "price": "36.8",
+          "show": true,
+          "hasMore": false,
+          "suppliers": [{
+            "name": "Qunar自营",
+            "show": true
+          },{
+            "name": "Qunar1自营",
+            "show": true
+          }]
+        }, {
+          "title": "下午场",
+          "desc": "比较好",
+          "price": "32.8",
+          "hasMore": true,
+          "show": true,
+           "suppliers": [{
+            "name": "Qunar自营",
+            "show": true
+          },{
+            "name": "Qunar1自营",
+            "show": true
+          },{
+            "name": "Qunar2自营",
+            "show": false
+          }]
+        },{
+          "title": "午夜场",
+          "desc": "比较好",
+          "price": "12.8",
+          "hasMore": true,
+          "show": false,
+           "suppliers": [{
+            "name": "Qunar自营",
+            "show": true
+          },{
+            "name": "Qunar1自营",
+            "show": true
+          },{
+            "name": "Qunar2自营",
+            "show": false
+          }]
+        }]
+    },{
+      "title": "故宫成人票",
+      "hasMore": false,
+      "list": [
+        {
+          "title": "上午场",
+          "desc": "比较贵",
+          "price": "36.8",
+          "hasMore": false,
+          "show": true,
+          "suppliers": [{
+            "name": "Qunar自营",
+            "show": true
+          },{
+            "name": "Qunar2自营",
+            "show": true
+          }]
+        }, {
+          "title": "下午场",
+          "desc": "比较好",
+          "price": "32.8",
+          "hasMore": true,
+          "show": true,
+           "suppliers": [{
+            "name": "Qunar自营",
+            "show": true
+          },{
+            "name": "Qunar1自营",
+            "show": true
+          },{
+            "name": "Qunar2自营",
+            "show": false
+          }]
+        }]
+    }]
+  }
+}
